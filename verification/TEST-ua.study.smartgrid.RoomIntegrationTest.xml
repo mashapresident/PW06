@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ua.study.smartgrid.RoomIntegrationTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2026-11-14T14:33:43" hostname="local" time="0.149">
+  <properties/>
+  <testcase name="insertUpdateDeleteAndFlow" classname="ua.study.smartgrid.RoomIntegrationTest" time="0.149"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

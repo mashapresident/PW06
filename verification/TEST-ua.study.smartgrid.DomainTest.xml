@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ua.study.smartgrid.DomainTest" tests="14" skipped="0" failures="0" errors="0" timestamp="2026-11-14T14:33:33" hostname="local" time="0.037">
+  <properties/>
+  <testcase name="filterAndSort" classname="ua.study.smartgrid.DomainTest" time="0.007"/>
+  <testcase name="csvQuotedFieldsRoundTrip" classname="ua.study.smartgrid.DomainTest" time="0.006"/>
+  <testcase name="rejectMalformedCsv" classname="ua.study.smartgrid.DomainTest" time="0.001"/>
+  <testcase name="rejectDuplicateIds" classname="ua.study.smartgrid.DomainTest" time="0.009"/>
+  <testcase name="coordinateLimits" classname="ua.study.smartgrid.DomainTest" time="0.0"/>
+  <testcase name="zeroDuration" classname="ua.study.smartgrid.DomainTest" time="0.0"/>
+  <testcase name="validateCredentials" classname="ua.study.smartgrid.DomainTest" time="0.001"/>
+  <testcase name="rejectNegativeReading" classname="ua.study.smartgrid.DomainTest" time="0.0"/>
+  <testcase name="rejectInvalidDose" classname="ua.study.smartgrid.DomainTest" time="0.002"/>
+  <testcase name="jsonRoundTrip" classname="ua.study.smartgrid.DomainTest" time="0.003"/>
+  <testcase name="rejectEmptyName" classname="ua.study.smartgrid.DomainTest" time="0.0"/>
+  <testcase name="doseCalculation" classname="ua.study.smartgrid.DomainTest" time="0.0"/>
+  <testcase name="rejectOverflow" classname="ua.study.smartgrid.DomainTest" time="0.0"/>
+  <testcase name="rejectInvalidImportedMeasurement" classname="ua.study.smartgrid.DomainTest" time="0.006"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
